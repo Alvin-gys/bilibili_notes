@@ -36,16 +36,16 @@
 
 ### 联系我
 
-####公众号
+#### 公众号
 
-![](README.assets/qrcode_for_gh_5dd42edd05cb_258.jpg)
+![](README/qrcode_for_gh_5dd42edd05cb_258.jpg)
 
 #### 微博
 
-![](README.assets/1555304273404_爱奇艺.jpg)
+![](README/1555304273404_爱奇艺.jpg)
 
 #### B站账号：攻城狮之家
 
 #### 如有帮助，欢迎打赏
 
-![](README.assets/qq_pic_merged_1555332773224_爱奇艺_爱奇艺-1557066916967.jpg)
+![](README/qq_pic_merged_1555332773224_爱奇艺_爱奇艺-1557066916967.jpg)
